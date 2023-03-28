@@ -1,0 +1,26 @@
+
+
+h5{
+
+    color: blueviolet;
+}
+div.head{
+
+   margin: 20px;
+   border: 5px solid black;
+height: 150px;
+width: 150px;
+    float: left;
+
+}
+
+div#first{
+
+    background-color: aqua;
+}
+div#sec{
+    background-color: aquamarine;
+}
+div#t{
+    background-color: blueviolet;
+}
