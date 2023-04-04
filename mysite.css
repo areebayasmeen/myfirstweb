@@ -24,3 +24,29 @@ div#sec{
 div#t{
     background-color: blueviolet;
 }
+
+   
+
+
+
+div.ssec{
+    border: 5px solid black;
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+    background-color: aqua;
+}
+div#o{
+    border: 2px solid black;
+    display: inline-block;
+   height: 50px;
+}
+div#tw{
+
+    border: 2px solid black;
+    display: inline-block;
+    height: 50px;
+    padding-top: 50px;
+    
+   
+}
